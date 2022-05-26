@@ -1,8 +1,8 @@
 # School_District_Analysis
-Module 4 project
+
 # Overview of the school district analysis
-## Purpose of the Project
-#### The purpose of this project was to clean the data to exclude reading and math grades for Thomas High School ninth graders due to possible academic dishonesty (records appear to have been altered) and analyze data from school districts on student spending and standardized test scores to see trends and how well schools are performing. The school board will utilize the analysis and findings to make strategic decisions about the school budget and priorities.
+
+The purpose of this project was to clean the data to exclude reading and math grades for Thomas High School ninth graders due to possible academic dishonesty (records appear to have been altered) and analyze data from school districts on student spending and standardized test scores to see trends and how well schools are performing. The school board will utilize the analysis and findings to make strategic decisions about the school budget and priorities.
 
 ## Resources
 * Data Source: schools_complete.csv; students_complete.csv
