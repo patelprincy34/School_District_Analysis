@@ -7,6 +7,7 @@ The purpose of this project was to clean the data to exclude reading and math gr
 ## Resources
 * Data Source: schools_complete.csv; students_complete.csv
 * Source Code: PyCitySchools_Challenge_starter_code
+* Software: Python, Jupyternotebook
 
 ## Results 
 * How is the district summary affected?
